@@ -2,7 +2,7 @@
 
 You are given two integers $a$ and $b$.
 
-Print $a + b$.
+Print $a - b$.
 
 # Input
 
@@ -13,4 +13,12 @@ The first line of input contains two integers $a$ and $b$ separated by a space.
 
 # Output
 
-Print $a + b$ on the first line of output.
+Print $a - b$ on the first line of output.
+
+# Subtask
+
+| Number | Score | Constraints |
+| ------ | ----- | ----------- |
+| 1      | 10    | $a = b = 1$ |
+| 2      | 90    | $1 \le a, b \le 5$ |
+| 3      | 123   | No additional constraints. |
